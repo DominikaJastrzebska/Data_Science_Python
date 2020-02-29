@@ -1,0 +1,46 @@
+Data ksiêgowania;Data efektywna;Nazwa transakcji i opis;Kwota;Waluta;Saldo po operacji
+02-05-2019;28-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9615; Kwota w walucie rozliczeniowej: 40.51 USD 925.40 CZK z dnia:2019-04-28 Kod MCC 5541  CZE,ZABREH SHELL 8104  ";-42.13;"EUR";-23.13
+02-05-2019;28-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9615; Kwota w walucie rozliczeniowej: 2.93 USD 67.00 CZK z dnia:2019-04-28 Kod MCC 5541  CZE,LADNA L SHELL 8048  ";-3.05;"EUR";19.00
+02-05-2019;28-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9615; Kwota w walucie rozliczeniowej: 1.71 USD 39.00 CZK z dnia:2019-04-28 Kod MCC 5541  CZE,LADNA L SHELL 8048  ";-1.78;"EUR";22.05
+02-05-2019;02-05-2019;"Odsetki od limitu: 0.00 Odsetki od debetu: 0.01      ";0.00;"EUR";-23.13
+01-05-2019;27-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9638; Kwota w walucie rozliczeniowej: 19.54 USD 1080.00 MKD z dnia:2019-04-27 Kod MCC 5541  MKD,KICEVO DUKLA/B.P.  ";-20.27;"EUR";23.83
+30-04-2019;27-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9638; Kwota w walucie rozliczeniowej: 1.99 USD 210.00 RSD z dnia:2019-04-27 Kod MCC 4784  SRB,BEOGRAD NS DOLJEVAC PUT.SRBI  ";-2.06;"EUR";44.10
+30-04-2019;27-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9638; Kwota w walucie rozliczeniowej: .76 USD 80.00 RSD z dnia:2019-04-27 Kod MCC 4784  SRB,PRESEVO JP PUTEVI SRBIJE  ";-0.79;"EUR";46.16
+30-04-2019;27-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9638; Kwota w walucie rozliczeniowej: 7.58 USD 800.00 RSD z dnia:2019-04-27 Kod MCC 4784  SRB,VRCIN JP PUTEVI SRBIJE  ";-7.86;"EUR";46.95
+30-04-2019;27-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9638; Kwota w walucie rozliczeniowej: 5.31 USD 560.00 RSD z dnia:2019-04-27 Kod MCC 4784  SRB,SUBOTICA JP PUTEVI SRBIJE  ";-5.51;"EUR";54.81
+30-04-2019;28-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9638; Kwota w walucie rozliczeniowej: 7.81 USD 2250.00 HUF z dnia:2019-04-28 Kod MCC 5812  HUN,TATA KFC TATA M1  ";-8.10;"EUR";60.32
+30-04-2019;28-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9638; Kwota w walucie rozliczeniowej: 42.33 USD 12203.00 HUF z dnia:2019-04-28 Kod MCC 5541  HUN,MOSONMAGYAROV MOL TO:LTO""A'LL.  ";-43.92;"EUR";68.42
+30-04-2019;28-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9638; Kwota w walucie rozliczeniowej: 42.46 USD 12241.00 HUF z dnia:2019-04-28 Kod MCC 5541  HUN,PETOFISZALLAS M.PETROL PETO""FISZA'LL  ";-44.05;"EUR";112.34
+30-04-2019;27-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9638; Kwota w walucie rozliczeniowej: 1.99 USD 110.00 MKD z dnia:2019-04-27 Kod MCC 5541  MKD,KICEVO BP KICEVO I BR.054  ";-2.06;"EUR";156.39
+30-04-2019;27-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9638; Kwota w walucie rozliczeniowej: .54 USD 30.00 MKD z dnia:2019-04-27 Kod MCC 4784  MKD,SKOPJE JPDP  ";-0.56;"EUR";158.45
+30-04-2019;27-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9638; Kwota w walucie rozliczeniowej: .54 USD 30.00 MKD z dnia:2019-04-27 Kod MCC 4784  MKD,SKOPJE JPDP  ";-0.56;"EUR";159.01
+30-04-2019;27-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9638; Kwota w walucie rozliczeniowej: .72 USD 40.00 MKD z dnia:2019-04-27 Kod MCC 4784  MKD,SKOPJE JPDP  ";-0.75;"EUR";159.57
+30-04-2019;27-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9638; Kwota w walucie rozliczeniowej: .72 USD 40.00 MKD z dnia:2019-04-27 Kod MCC 4784  MKD,SKOPJE JPDP  ";-0.75;"EUR";160.32
+30-04-2019;27-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9638; Kwota w walucie rozliczeniowej: .72 USD 40.00 MKD z dnia:2019-04-27 Kod MCC 4784  MKD,SKOPJE JPDP  ";-0.75;"EUR";161.07
+30-04-2019;27-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9638; Kwota w walucie rozliczeniowej: 1.09 USD 60.00 MKD z dnia:2019-04-27 Kod MCC 4784  MKD,SKOPJE JPDP  ";-1.13;"EUR";161.82
+30-04-2019;27-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9638; Kwota w walucie rozliczeniowej: 28.96 USD 3201.00 ALL z dnia:2019-04-27 Kod MCC 5541  ALB,ELBASAN ENI OIL  ";-30.05;"EUR";162.95
+30-04-2019;27-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9638; Kwota w walucie rozliczeniowej: 7.39 USD 780.00 RSD z dnia:2019-04-27 Kod MCC 5814  SRB,LAPOVO VAROS KFC OMV-SEVER  ";-7.67;"EUR";193.00
+30-04-2019;27-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9638; Kwota w walucie rozliczeniowej: 19.9 USD 2100.00 RSD z dnia:2019-04-27 Kod MCC 5814  SRB,LAPOVO VAROS KFC OMV-SEVER  ";-20.65;"EUR";200.67
+30-04-2019;27-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9638; Kwota w walucie rozliczeniowej: .95 USD 99.98 RSD z dnia:2019-04-27 Kod MCC 5541  SRB,PREDEJANE 555 PREDEJANE  ";-0.99;"EUR";221.32
+30-04-2019;27-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9638; Kwota w walucie rozliczeniowej: 9.48 USD 999.99 RSD z dnia:2019-04-27 Kod MCC 5541  SRB,PREDEJANE 555 PREDEJANE  ";-9.84;"EUR";222.31
+30-04-2019;27-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9638; Kwota w walucie rozliczeniowej: 36.21 USD 3821.05 RSD z dnia:2019-04-27 Kod MCC 5541  SRB,BEOGRAD 536 VML 2  ";-37.57;"EUR";232.15
+30-04-2019;27-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9638; Kwota w walucie rozliczeniowej: 36.51 USD 3853.05 RSD z dnia:2019-04-27 Kod MCC 5541  SRB,TRUPALE 452 FONTANA  ";-37.88;"EUR";269.72
+29-04-2019;29-04-2019;"Rozliczenie transakcji Kantor Walutowy 227";-136.38;"EUR";307.60
+25-04-2019;25-04-2019;"Rozliczenie transakcji Kantor Walutowy 226";230.00;"EUR";443.98
+18-04-2019;16-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9669; Kwota w walucie rozliczeniowej: 7.67 USD 800.00 RSD z dnia:2019-04-16 Kod MCC 4784  SRB,TRUPALE NS NIS TRUPALE  ";-7.93;"EUR";213.98
+18-04-2019;16-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9669; Kwota w walucie rozliczeniowej: 2.01 USD 210.00 RSD z dnia:2019-04-16 Kod MCC 4784  SRB,BEOGRAD NS DOLJEVAC PUT.SRBI  ";-2.08;"EUR";221.91
+18-04-2019;16-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9669; Kwota w walucie rozliczeniowej: .77 USD 80.00 RSD z dnia:2019-04-16 Kod MCC 4784  SRB,PRESEVO JP PUTEVI SRBIJE  ";-0.80;"EUR";223.99
+18-04-2019;16-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9669; Kwota w walucie rozliczeniowej: .55 USD 30.00 MKD z dnia:2019-04-16 Kod MCC 4784  MKD,SKOPJE JPDP  ";-0.57;"EUR";224.79
+18-04-2019;16-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9669; Kwota w walucie rozliczeniowej: .55 USD 30.00 MKD z dnia:2019-04-16 Kod MCC 4784  MKD,SKOPJE JPDP  ";-0.57;"EUR";225.36
+18-04-2019;16-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9669; Kwota w walucie rozliczeniowej: .74 USD 40.00 MKD z dnia:2019-04-16 Kod MCC 4784  MKD,SKOPJE JPDP  ";-0.77;"EUR";225.93
+18-04-2019;16-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9669; Kwota w walucie rozliczeniowej: .74 USD 40.00 MKD z dnia:2019-04-16 Kod MCC 4784  MKD,SKOPJE JPDP  ";-0.77;"EUR";226.70
+18-04-2019;16-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9669; Kwota w walucie rozliczeniowej: .74 USD 40.00 MKD z dnia:2019-04-16 Kod MCC 4784  MKD,SKOPJE JPDP  ";-0.77;"EUR";227.47
+18-04-2019;16-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9669; Kwota w walucie rozliczeniowej: 1.1 USD 60.00 MKD z dnia:2019-04-16 Kod MCC 4784  MKD,SKOPJE JPDP  ";-1.14;"EUR";228.24
+18-04-2019;16-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9669; Kwota w walucie rozliczeniowej: 21.82 USD 1187.00 MKD z dnia:2019-04-16 Kod MCC 5541  MKD,KICHEVO B.S. 057 KICEVO 2  ";-22.57;"EUR";229.38
+18-04-2019;15-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9669; Kwota w walucie rozliczeniowej: 11.12 USD 1160.00 RSD z dnia:2019-04-15 Kod MCC 5814  SRB,STARA PAZOVA NICEFOODS HIGHWA  ";-11.50;"EUR";251.95
+18-04-2019;16-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9669; Kwota w walucie rozliczeniowej: 66.17 USD 6901.34 RSD z dnia:2019-04-16 Kod MCC 5541  SRB,PREDEJANE 555 PREDEJANE  ";-68.43;"EUR";263.45
+18-04-2019;15-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie 17.80 EUR z dnia:2019-04-15 Kod MCC 4784  HUN,RAJKA FIBADO RAJKA IRODA  ";-17.80;"EUR";331.88
+17-04-2019;15-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9722; Kwota w walucie rozliczeniowej: 5.38 USD 560.00 RSD z dnia:2019-04-15 Kod MCC 4784  SRB,STARA PAZOVA NS STARA PAZOVA  ";-5.53;"EUR";349.68
+17-04-2019;15-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9722; Kwota w walucie rozliczeniowej: 62.44 USD 6500.77 RSD z dnia:2019-04-15 Kod MCC 5541  SRB,RUMENKA MOL SERBIA 90114 RUMEN  ";-64.23;"EUR";355.21
+17-04-2019;15-04-2019;"Transakcja kart¹ debetow¹;obci¹¿enie; Kurs wymiany: .9722; Kwota w walucie rozliczeniowej: 46.9 USD 13270.00 HUF z dnia:2019-04-15 Kod MCC 5541  HUN,Gyor OMV 1988/  ";-48.24;"EUR";419.44
+15-04-2019;15-04-2019;"Rozliczenie transakcji Kantor Walutowy 225";466.00;"EUR";467.68
